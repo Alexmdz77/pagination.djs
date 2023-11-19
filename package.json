@@ -58,7 +58,7 @@
 		"typescript": "^5.2.2"
 	},
 	"peerDependencies": {
-		"discord.js": "^14.1.2"
+		"discord.js": "^14.14.1"
 	},
 	"repository": {
 		"type": "git",
